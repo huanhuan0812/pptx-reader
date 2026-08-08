@@ -6,6 +6,8 @@
 - **PugiXML**：解析 OOXML 中的 `presentation.xml`、`slideN.xml` 等
 - 提供 `Presentation` 类，支持**嵌套 for 循环**按顺序读取每一个文本框的文字
 
+- **这个库是在[office-reader](https://github.com/huanhuan0812/office-reader)完成前的临时库，用于[ClassAssistant](https://github.com/huanhuan0812/ClassAssistant-cpp)整理课件时使用**
+
 ## 目录结构
 
 ```
